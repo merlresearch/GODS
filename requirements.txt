@@ -1,0 +1,16 @@
+# Copyright (c) 2019-2023 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+autograd
+bleach==3.1.1
+cycler==0.10.0
+decorator==4.4.2
+entrypoints==0.3
+joblib==0.14.1
+jsonschema==3.2.0
+numpy
+pymanopt==0.2.4
+tqdm
+scikit-learn
+pre-commit
